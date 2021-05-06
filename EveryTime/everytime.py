@@ -16,9 +16,9 @@ elem = driver.find_element_by_link_text("로그인")
 elem.click()
 
 id = driver.find_element_by_name('userid')
-id.send_keys('gpdnjs0809') # 자신의 아이디 입력
+id.send_keys('') # 자신의 아이디 입력
 id = driver.find_element_by_name('password')
-id.send_keys('passe135!') # 자신의 비밀번호 입력
+id.send_keys('') # 자신의 비밀번호 입력
 id.send_keys(Keys.RETURN)
 
 # 페이지가 로드되기 전 크롤러가 먼저 클릭하는 현상 방지
