@@ -27,9 +27,9 @@ id.send_keys(Keys.RETURN)
 # 페이지가 로드되기 전 크롤러가 먼저 클릭하는 현상 방지
 time.sleep(2.5)
 
-#서울캠 자유게시판 클릭
-elem = driver.find_element_by_link_text("서울캠 자유게시판")
-elem.click()
+# #서울캠 자유게시판 클릭
+# elem = driver.find_element_by_link_text("서울캠 자유게시판")
+# elem.click()
 
 #글로벌캠 자유게시판 클릭
 elem = driver.find_element_by_link_text("글로벌캠 자유게시판")
