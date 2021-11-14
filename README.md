@@ -11,5 +11,5 @@
 #### 3. Word2Vec
 
 ## 분석 결과 
-###https://www.notion.so/71c439b0a7034a138d59f6870ddebec7
+https://www.notion.so/71c439b0a7034a138d59f6870ddebec7
 
